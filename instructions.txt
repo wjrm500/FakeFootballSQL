@@ -1,0 +1,8 @@
+- Open up the file "initialise.sql" in your chosen MySQL GUI application (I use HeidiSQL)
+- If you like, you can modify the settings variables at the top of the file, each of which should be self-explanatory - or you can just leave them with their default values
+- Recommended minima and maxima have been suggested for each setting
+- WARNING: This program is computationally intensive and can take hours to run, depending on the settings. I therefore highly recommend you run the simulation with the default settings initially, to get a feel for the program. As an idea of time taken, with the default settings the program completes on my Dell XPS 13 laptop in approx. 73 seconds
+- Run the SQL in the file - this should create a new database and populate it with everything you need to run the simulation
+- Run the newly-created "simulator" procedure
+- Wait for the simulation to complete
+- Inspect the data contained in the table, result and form repositories
